@@ -2,4 +2,4 @@
 Converts Text to speech in neat manner using simple frontend with Java Script inbuilt function
 
 
-![Screenshot (25)](https://github.com/user-attachments/assets/90244311-eff4-4031-8323-b4ab0f69bf12)
+![Screenshot (25)](https://github.com/user-attachments/assets/dc4dc173-4f75-4639-adb1-a8660e41e4a4)
